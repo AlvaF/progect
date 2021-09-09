@@ -1,5 +1,3 @@
-deVV
-<<<<<<< HEAD
-deeeeev
-=======
->>>>>>> dev2
+dev1
+dev2
+
